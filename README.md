@@ -12,5 +12,6 @@ Sou estudante de Engenharia de Software - Apaixonado por tecnoligia e Buscando a
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavodev06&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodev06&layout=compact&theme=radical&langs_count=10&hide=html,css)
