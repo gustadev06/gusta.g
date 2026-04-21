@@ -1,4 +1,7 @@
-# ⚡ Olá, eu sou o Gustavo!
+#  Olá, eu sou o Gustavo!
+
+
+
 
 Sou estudante de Engenharia de Software, focado em criar soluções eficientes, desde ferramentas de linha de comando até interfaces web dinâmicas. Sempre em busca de aprender e construir código limpo e escalável.
 
