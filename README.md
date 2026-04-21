@@ -18,6 +18,8 @@ Sou estudante de Engenharia de Software, focado em criar soluções eficientes, 
 **🎨pintuinterfaces & Front-End**
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=vue" />
+
 
 **⚙️ Back-End & Desktop**
 <br>
@@ -25,7 +27,7 @@ Sou estudante de Engenharia de Software, focado em criar soluções eficientes, 
 
 **🛠️ Ferramentas & Editores**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,mysql,figma" />
 
 <br>
 
