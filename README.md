@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=239120&center=true&vCenter=true&width=800&height=150&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo!;Desenvolvedor+C%23+e+Web;Estudante+de+Engenharia" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gustavo%20Guimarães&fontSize=50&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=55&descSize=20" alt="Banner Animado Gustavo" />
 </div>
 
 Sou estudante de Engenharia de Software, focado em criar soluções eficientes, desde ferramentas de linha de comando até interfaces web dinâmicas. Sempre em busca de aprender e construir código limpo e escalável.
