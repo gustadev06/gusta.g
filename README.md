@@ -15,7 +15,7 @@ Sou estudante de Engenharia de Software, focado em criar soluções eficientes, 
 
 ### 💻 Tecnologias | Technologies
 
-**🧱 Stack Base (Web)**
+**🎨pintuinterfaces & Front-End**
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
