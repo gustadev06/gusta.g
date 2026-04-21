@@ -4,11 +4,11 @@ Sou estudante de Engenharia de Software, focado em criar soluções eficientes, 
 
 <br>
 
-### 📊 Estatísticas do GitHub
+### 📊 Meus Dados
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=gustadev06&theme=dracula&hide_border=true" alt="Estatísticas de Sequência do Gustavo" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustadev06&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustadev06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustadev06&layout=donut&theme=tokyonight&hide_border=true" alt="Linguagens em Gráfico de Rosca" />
 </div>
 
 <br>
