@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gustavo%20Guimarães&fontSize=50&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=55&descSize=20" alt="Banner Animado Gustavo" />
 </div>
+
 **Sou estudante de Engenharia de Software, focado em aprender o máximo, desde ferramentas de linha de comando até interfaces web dinâmicas. Sempre em busca do código limpo e escalável.**
 
 <br>
